@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Somnath Paul",
+    "occupation": "Co-Founder of CodersBake",
+    "description": "I am a UI/UX Designer, Web Developer and a Digital Artist.",
+    "image": "IMG_0001_Original-modified.png",
+    "bio": "Hi there! I am Somnath! You might also know me as Co-Founder of CodersBake. I've been designing for over 1 years now. As a Graphic Designer I've worked with startups and like to work with large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming Designer. I've been also the Head Designer at Wibin Technology. I have been designing Logo, UI, Mockups, Web Designs, Digital Arts and many more. ",
+    "contactmessage": "Get in touch with me and get Awsome Designs!",
+    "email": "somnathpaul302002@gmail.com",
+    "phone": "+91-9693455623",
+    "address": {
+      "city": "New Delhi",
+      "zip": "110006"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1tZMBug8mrSZyW_kqQWNMz7Lf8YK0fWQs/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/somnath-paul-44938921b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/paul.som20/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/som120",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Designing Skills",
+    "education": [
+      {
+        "school": "Christ University, Delhi NCR",
+        "degree": "Bachelor of Computer Application (BCA)",
+        "years": "May 2024"
+      }
+    ],
+    "work": [
+      {
+        "company": "CodersBake",
+        "title": "Co-Founder",
+        "years": "March 2022 - Present",
+        "description": "Graphic Designer building Logo, Website Design, Mockups and more."
+      },
+      {
+        "company": "Wibin Technology",
+        "title": "Head Designer",
+        "years": "May 2022 - Present",
+        "description": "Graphic Designer building Logo, Website Design and more."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "95%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "Digital Art",
+        "level": "80%"
+      },
+      {
+        "name": "UI/UX Design",
+        "level": "85%"
+      },
+      {
+        "name": "Canva",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "Logos.png",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "Art Works.png",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "Mockups.png",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "Web Designs.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Wroking with Somanath has been a great experience. He never leaves a chance to shock us with his amazing designs and mockups.",
+        "user": "Samyak Jain (Co-Founder Coders Bake)"
+      },
+      {
+        "text": "Your unique perspective adds so much to our team. We are so grateful to have you with us!",
+        "user": "Shreyansh Sinha (CEO of Wibin Technologies)"
+      }
+    ]
+  }
+}
